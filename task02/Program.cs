@@ -1,5 +1,5 @@
 ﻿int i1 = 5;
-int i2 = 6;
+int i2 = 2;
 int sum = i1 + i2;
 Console.WriteLine(sum);
 
@@ -17,3 +17,9 @@ double product3 = i1 * d1;
 Console.WriteLine(product1);
 Console.WriteLine(product2);
 Console.WriteLine(product3);
+
+ int qout = i1 / i2;
+ Console.WriteLine(qout);
+
+ double qout1 = d1 / i2;
+ Console.WriteLine(qout1);
